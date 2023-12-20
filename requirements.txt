@@ -1,0 +1,4 @@
+sh
+pandas
+openpyxl
+xlrd
